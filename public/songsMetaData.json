@@ -1,0 +1,17 @@
+[
+  {
+    "url": "/public/Despacito.mp3",
+    "title": "Despacito",
+    "artist": [
+      "Luis Fonsi",
+      "Daddy Yankee"
+    ]
+  },
+  {
+    "url": "/public/Bob Marley - Sun Is Shining.mp3",
+    "title": "Sun Is Shining",
+    "artist": [
+      "JBob Marley"
+    ]
+  }
+]
